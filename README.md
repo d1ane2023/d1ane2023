@@ -19,7 +19,7 @@ preview
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d1ane2023&label=Profile%20views&color=0e75b6&style=flat" alt="d1ane2023" /> </p>
 
-- 🔭 I’m currently working on **node.js bookstore**
+- 🔭 I’m currently working on **node.js web**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
